@@ -6,10 +6,10 @@
   
   
  ### Functionality:
-  - Add, get, list students
-  - Add, get, list teachers
-  - Add, get, list subjects 
-  - Add, get, list different school class 
+  - Add, get, and list students
+  - Add, get, and list teachers
+  - Add, get, and list subjects 
+  - Add, get, and list different school class 
   - Calculate grade point average per Student
   - Calculate grade point average per school class
   
